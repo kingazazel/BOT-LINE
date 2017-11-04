@@ -1,2 +1,2 @@
-# BOT-LINE
-SELF BOT OR BOT
+# LIN3-TCR
+Satria Bot V3
